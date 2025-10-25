@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+@import "tailwindcss";
+
+/* :root {
+  --primary: #ff6b57ff;
+  --secondary: #ffada2ff;
+  --background: #f1f1f1;
+  --text: #000000;
+  --white: #ffffff;
+  --error: tomato;
+} */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cinzel-500 {
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
